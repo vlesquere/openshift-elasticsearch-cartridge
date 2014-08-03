@@ -17,7 +17,8 @@
 ##   http://mobz.github.io/elasticsearch-head
 
 ## Uncomment line below to install this plugin
-#mobz/elasticsearch-head
+mobz/elasticsearch-head
+com.github.richardwilly98.elasticsearch/elasticsearch-river-mongodb/2.0.1
 
 ## Description:
 ##   Paramedic is a simple yet sexy tool to monitor and inspect
